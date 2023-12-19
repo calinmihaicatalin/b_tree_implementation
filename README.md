@@ -11,14 +11,6 @@ Features
     Predecessor and Successor: Identify the key that precedes or succeeds a given value.
     Range Query: Print keys falling within a specified range.
 
-Usage
 
-    Insertion: Add elements to the B-tree using the insert operation.
-    Deletion: Remove elements from the B-tree using the remove operation.
-    Search: Check the existence of a key using the search operation.
-    Predecessor and Successor: Retrieve the key that comes before or after a given value.
-    Range Query: Print keys within a specified range using the afisare operation.
-
-How to Run
 
 Compile and execute the main.cpp file, providing input as described in the file. The program reads operations from a file (abce.in) and outputs results to another file (abce.out).
