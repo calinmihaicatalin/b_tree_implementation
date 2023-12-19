@@ -1,6 +1,6 @@
 # B-Tree Implementation in C++
 
-@COPYRIGHT 2023 Calin Mihai-Catalin, 1341
+@2023 Calin Mihai-Catalin, 1341
 --------------------------------------------------------------------------------
 
 This project consists of a B-tree implementation in C++ designed for efficient management of sorted data. The B-tree offers functionalities such as insertion, deletion, and search operations. Additionally, the implementation provides features to find the predecessor and successor of a key, as well as printing keys within a specified range.
